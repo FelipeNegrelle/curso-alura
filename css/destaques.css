@@ -1,6 +1,7 @@
 .destaques {
     background-color: var(--azul-claro);
-    padding: 2.5rem 0 2rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2rem;
 }
 
 .destaques__titulo {
@@ -18,7 +19,6 @@
     flex-direction: column;
     align-items: center;
     margin-bottom: 2rem;
-    padding: 6%;
 }
 
 .destaques__painel-imagem {
